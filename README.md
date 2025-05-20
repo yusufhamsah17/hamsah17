@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adib Firdaus Putra</h1>
-<h3 align="center">I'm from East Java, Indonesia 🇮🇩</h3>
+<h1 align="center">Hi 👋, I'M M. Yusuf Hamsah</h1>
+<h3 align="center">I'm from Dumai City, Indonesia 🇮🇩</h3>
 <h4 align="center">Informatics Engineering student at State Islamic University</h4>
 
 ---
