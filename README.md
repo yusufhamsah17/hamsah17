@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'M M. Yusuf Hamsah</h1>
+<h1 align="center">Hi 👋, I'M . Yusuf Hamsah</h1>
 <h3 align="center">I'm from Dumai City, Indonesia 🇮🇩</h3>
 <h4 align="center">Informatics Engineering student at State Islamic University</h4>
 
@@ -17,3 +17,27 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 📊 GitHub Stats:
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufhamsah17&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufhamsah17&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufhamsah17&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 💬 Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=yusufhamsah17&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 📌 GitHub Activity Graph:
+[![Yusuf's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufhamsah17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
