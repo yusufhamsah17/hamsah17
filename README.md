@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'M . Yusuf Hamsah</h1>
 <h3 align="center">I'm from Dumai City, Indonesia 🇮🇩</h3>
-<h4 align="center">Informatics Engineering student at State Islamic University</h4>
+<h4 align="center">sultan syarif kasim state islamic university
+</h4>
 
 ---
 
